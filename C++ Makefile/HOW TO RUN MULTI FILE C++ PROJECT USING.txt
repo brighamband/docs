@@ -1,0 +1,6 @@
+HOW TO RUN MULTI FILE C++ PROJECT USING MAKEFILE
+
+Make the 'Makefile' (no extension) in the same folder
+Open directory with files in terminal
+type 'mingw32-make'
+type 'makefile' (maybe ./makefile.exe')

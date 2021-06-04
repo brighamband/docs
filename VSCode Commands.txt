@@ -1,0 +1,62 @@
+autocomplete
+tab
+
+move current line up/down
+alt + up/down
+
+move cursor to beginning/end of line
+home/end
+
+highlight everything on line before/after cursor
+shift + home/end
+
+highlight everything in file before/after cursor
+shift + pg dn/pg up
+
+new window
+ctrl + shift + n
+
+close current window
+ctrl + shift + w
+
+switch to recent workspace
+ctrl + r
+
+new tab
+ctrl + n
+
+close current tab
+ctrl + w
+
+switch tabs right/left
+ctrl + tab 
+
+highlight word (keep pressing to highlight consecutive repeating words)
+ctrl + d
+
+delete word
+ctrl + backspace
+
+fold or unfold
+ctrl + shift + [ / ]
+
+switch to left/right tab
+ctrl + pg up / pg dn
+
+switch to specific # tab
+alt + #
+
+run code w/ code runner
+ctrl + alt + n
+
+add multiple cursors anywhere
+ctrl + alt + click (where you want them)
+
+add cursors to every end of line within your selection
+shift + alt + i
+
+	move cursors to front of every line within your selection
+	home
+
+add cursors to every first line without entire selection
+ctrl + alt + down

@@ -1,0 +1,11 @@
+make venv folder (call it name of project)
+cd into venv folder
+make virtual environment in current dir ('virtualenv .')
+activate virtual env ('.\Scripts\activate')
+install django ('pip install django')
+create django project ('django-admin startproject myproject')
+cd into project folder
+run server to make sure it install correctly ('python manage.py runserver')
+make data migration to prevent issues ('python manage.py migrate')
+make app in project ('python manage.py startapp myproject_app')
+open current dir (django project folder) in code editor ('code .')
