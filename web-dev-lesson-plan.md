@@ -105,13 +105,27 @@
 
 <br/>
 
-## Add dropdowns
+## Dropdowns (`<select>`, `<option>`)
 
-<br />
+- ```
+  <select name="cars">
+    <option value="toyota">Toyota</option>
+    <option value="honda">Honda</option>
+    <option value="chevy">Chevy</option>
+  </select>
+  ```
 
-## Add divs (rectangular containers)
+  <select name="cars">
+    <option value="toyota">Toyota</option>
+    <option value="honda">Honda</option>
+    <option value="chevy">Chevy</option>
+  </select>
 
-- `<div>Content inside rectangle</div> `
+  <br />
+
+## `<div>` (rectangular containers)
+
+- `<div>Content inside rectangle</div>`
 
   _Ex:_
 
