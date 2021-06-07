@@ -1,5 +1,14 @@
 # HTML Crash Course
 
+<br />
+
+## File Creation
+
+1. Make a new folder/directory called `HtmlCrashCourse`.
+2. Inside that folder, make a new file called `index.html`.
+
+<br />
+
 ## Boilerplate
 
 ```
@@ -42,6 +51,12 @@
     ```
 
 <br />
+
+## `<button>`
+
+- `<button>Click Me<button>`
+
+  <button>Click Me</button>
 
 ## `<link>`
 
